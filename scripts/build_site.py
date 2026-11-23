@@ -115,6 +115,7 @@ blockquote p:last-child{margin-bottom:0}
 .pn a{border:0}
 .pn .mid{text-align:center;color:#7C6D5C}
 .pn .right{text-align:right}
+.xu-sep{text-align:center;color:#7C6D5C;letter-spacing:.4em;margin:44px 0 40px;font-size:15px}
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid #DCD5C8;
   font-size:12px;color:#7C6D5C;line-height:2}
 .foot a{margin-right:12px}
@@ -364,7 +365,7 @@ def build_index():
 
 <h2>同系列<small>润泽说 · 道可道</small></h2>
 <div class="series-grid">%s</div>
-<a class="btn" href="book.html">从卷首读起（封面 · 扉页 · 前言）</a>
+<a class="btn" href="book.html">从卷首读起（序 · 封面 · 扉页 · 前言）</a>
 
 <div class="foot">
   <div>润泽说 道可道之大学 · 通释　全本　v%s　（%s）</div>
@@ -383,8 +384,10 @@ def build_index():
 
 
 def build_book():
+    xu = os.path.join(book, "序言.md")
     pre = os.path.join(book, "前言-读大学之前.md")
-    frag = md2html(open(pre, encoding="utf-8").read())
+    xu_frag = md2html(open(xu, encoding="utf-8").read())
+    pre_frag = md2html(open(pre, encoding="utf-8").read())
     body = bar('<a href="index.html">← 目录</a>', "卷首") + """
 <div class="wrap" style="padding-bottom:0">
 %s
@@ -392,15 +395,17 @@ def build_book():
 </div>
 <div class="wrap" style="padding-top:0">
 %s
+<div class="xu-sep" aria-hidden="true">※　※　※</div>
+%s
 <div class="pn"><div><a href="index.html">← 目录</a></div><div class="mid">卷首</div>
 <div class="right"><a href="%s">经一章 →</a></div></div>
 <div class="foot"><div>润泽说 道可道之大学 · 卷首　v%s　（%s）</div>
 <div>底本：朱熹《大学章句》　参校：《礼记正义·大学》郑玄注、孔颖达疏</div></div>
 </div>
-""" % (cover_block(), frontis_block(), frag, CH[0]["page"], VERSION, DATE)
+""" % (cover_block(), frontis_block(), xu_frag, pre_frag, CH[0]["page"], VERSION, DATE)
     open(os.path.join(docs, "book.html"), "w", encoding="utf-8").write(
-        shell("卷首：封面 · 扉页 · 前言｜润泽说 道可道之大学",
-              "《大学》通释卷首：封面、扉页与前言七节（为什么读、一条总纲、两个本子、四层分离、十二节、五步读法、版本）。",
+        shell("卷首：序 · 封面 · 扉页 · 前言｜润泽说 道可道之大学",
+              "《大学》通释卷首：序、封面、扉页与前言七节（为什么读、一条总纲、两个本子、四层分离、十二节、五步读法、版本）。",
               body, SITE + "/book.html"))
 
 
@@ -477,8 +482,10 @@ def build_meta(pages):
 
     llms = "# 润泽说 道可道之大学 · 通释\n\n"
     llms += "> 《大学》全本读本，十一章。底本朱熹《四书章句集注·大学章句》，经一章、传十章。\n"
-    llms += "> 每章十二节：导读、经文、字义与句读、今译、章旨、朱子注、分寸与边界、义理、时代之问、跨典、存疑、双卡与图；章末附少年读。\n"
-    llms += "> 古本《礼记·大学》全文、古本—朱子本对照、校勘记、存疑录、关键字索引见附录。\n\n## 章\n"
+    llms += "> 卷首冠序一篇，次前言七节；正文每章十二节：导读、经文、字义与句读、今译、章旨、朱子注、分寸与边界、义理、时代之问、跨典、存疑、双卡与图；章末附少年读。\n"
+    llms += "> 古本《礼记·大学》全文、古本—朱子本对照、校勘记、存疑录、关键字索引见附录。\n\n## 卷首\n"
+    llms += "- 序 · 前言：%s/book.html\n" % SITE
+    llms += "\n## 章\n"
     for c in CH:
         llms += "- %s｜%s｜%s：%s/%s\n" % (c["章号"], c["章题"], c["gist"], SITE, c["page"])
     llms += "\n## 附录\n"
