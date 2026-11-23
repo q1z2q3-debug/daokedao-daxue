@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Songti SC',serif" style="background:#F7F4EE">
+<title>日新三层：苟日新、日日新、又日新，自新新民皆止于至善</title>
+<desc>左侧盘铭三句自上而下分作三层：一次新、连续、不中断；右侧分标自新与新民，两支箭头汇入归宿「止于至善」。</desc>
+<defs>
+<marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 z" fill="#994433"/>
+</marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 日新三层：一次新、连续、不中断</text>
+
+<!-- 三层 -->
+<rect x="52" y="52" width="386" height="70" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="72" y="82" font-size="18" fill="#25211D" letter-spacing="2">苟日新</text>
+<text x="196" y="80" font-size="13" fill="#25211D">第一层 · 有一次新</text>
+<text x="196" y="104" font-size="11.5" fill="#7C6D5C">诚能一日，涤其旧染而自新</text>
+
+<text x="245" y="138" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+
+<rect x="52" y="146" width="386" height="70" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="72" y="176" font-size="18" fill="#25211D" letter-spacing="2">日日新</text>
+<text x="196" y="174" font-size="13" fill="#25211D">第二层 · 连续</text>
+<text x="196" y="198" font-size="11.5" fill="#7C6D5C">因其已新者，一天一天接着洗</text>
+
+<text x="245" y="232" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+
+<rect x="52" y="240" width="386" height="70" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="72" y="270" font-size="18" fill="#994433" letter-spacing="2">又日新</text>
+<text x="196" y="268" font-size="13" fill="#25211D">第三层 · 不中断</text>
+<text x="196" y="292" font-size="11.5" fill="#7C6D5C">在连续之上再加紧，不可略有间断</text>
+
+<!-- 右侧两支 -->
+<rect x="486" y="52" width="182" height="70" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="577" y="82" font-size="15" fill="#25211D" text-anchor="middle">自新</text>
+<text x="577" y="106" font-size="11.5" fill="#7C6D5C" text-anchor="middle">盘铭：洗自家旧染</text>
+
+<rect x="486" y="146" width="182" height="70" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="577" y="176" font-size="15" fill="#25211D" text-anchor="middle">新民</text>
+<text x="577" y="200" font-size="11.5" fill="#7C6D5C" text-anchor="middle">作新民 · 旧邦其命惟新</text>
+
+<line x1="438" y1="87" x2="486" y2="87" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="438" y1="181" x2="486" y2="181" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+
+<!-- 归宿 -->
+<rect x="300" y="348" width="286" height="72" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="443" y="380" font-size="17" fill="#994433" text-anchor="middle" letter-spacing="2">止于至善</text>
+<text x="443" y="404" font-size="11.5" fill="#7C6D5C" text-anchor="middle">自新新民，皆欲止于至善也</text>
+
+<line x1="577" y1="216" x2="577" y2="320" stroke="#DCD5C8"/>
+<line x1="577" y1="320" x2="443" y2="348" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="245" y1="310" x2="380" y2="348" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+
+<text x="360" y="442" font-size="11.5" fill="#7C6D5C" text-anchor="middle">新是洗，不是换；三层是同一处洗工的三拍。</text>
+<text x="360" y="462" font-size="11.5" fill="#7C6D5C" text-anchor="middle">一次新不算新，日日不断才是新。</text>
+</svg>

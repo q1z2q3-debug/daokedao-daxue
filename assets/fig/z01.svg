@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" style="background:#F7F4EE">
+<title>三引一结：克、顾、峻，皆自明也</title>
+<desc>左侧三部书三段引文，分别证能、常、大三事；三箭汇入右侧一结「皆自明也」。</desc>
+<defs>
+<marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 z" fill="#994433"/>
+</marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 三引一结：三书三证，皆自明也</text>
+
+<rect x="40" y="58" width="300" height="92" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="58" y="84" font-size="14" fill="#25211D">《康诰》曰：「克明德。」</text>
+<text x="58" y="110" font-size="11.5" fill="#7C6D5C">证一 · 克 = 能：能不能明</text>
+<text x="58" y="132" font-size="11.5" fill="#994433">起点：先问有没有这个动作</text>
+
+<rect x="40" y="188" width="300" height="92" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="58" y="214" font-size="14" fill="#25211D">《大甲》曰：「顾諟天之明命。」</text>
+<text x="58" y="240" font-size="11.5" fill="#7C6D5C">证二 · 顾 = 常目在之：在不在</text>
+<text x="58" y="262" font-size="11.5" fill="#994433">关键：明不是一次，是还在看</text>
+
+<rect x="40" y="318" width="300" height="92" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="58" y="344" font-size="14" fill="#25211D">《帝典》曰：「克明峻德。」</text>
+<text x="58" y="370" font-size="11.5" fill="#7C6D5C">证三 · 峻 = 大：明到多大</text>
+<text x="58" y="392" font-size="11.5" fill="#994433">规模：不只照见自己一盏灯</text>
+
+<line x1="340" y1="104" x2="466" y2="222" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="340" y1="234" x2="466" y2="250" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="340" y1="364" x2="466" y2="282" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+
+<rect x="478" y="168" width="206" height="170" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="581" y="204" font-size="19" fill="#994433" text-anchor="middle" letter-spacing="3">皆自明也</text>
+<text x="581" y="232" font-size="11.5" fill="#7C6D5C" text-anchor="middle">三书不是三件事</text>
+<text x="581" y="252" font-size="11.5" fill="#7C6D5C" text-anchor="middle">是一个动作的三次示范</text>
+<text x="581" y="286" font-size="13" fill="#25211D" text-anchor="middle">「自」：明在自己</text>
+<text x="581" y="310" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不假外求，也不假他人</text>
+
+<text x="360" y="452" font-size="11.5" fill="#7C6D5C" text-anchor="middle">克 = 能　顾 = 常目在之　峻 = 大：三证一事，落在一个「自」字</text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" style="background:#F7F4EE">
+<title>四情围一心：忿懥、恐惧、好乐、忧患，主位归心则在</title>
+<desc>中心圆标心在与心不在，四圆分列上下左右，各书一情；四情引线向心，情可向心而发，不可夺心作主。</desc>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 四情围一心：情是心之用，主位不可让</text>
+
+<line x1="360" y1="144" x2="360" y2="188" stroke="#DCD5C8" stroke-width="1.2"/>
+<line x1="516" y1="250" x2="424" y2="250" stroke="#DCD5C8" stroke-width="1.2"/>
+<line x1="360" y1="356" x2="360" y2="312" stroke="#DCD5C8" stroke-width="1.2"/>
+<line x1="204" y1="250" x2="296" y2="250" stroke="#DCD5C8" stroke-width="1.2"/>
+
+<circle cx="360" cy="100" r="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="106" font-size="15" fill="#25211D" text-anchor="middle" letter-spacing="2">忿懥</text>
+
+<circle cx="560" cy="250" r="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="560" y="256" font-size="15" fill="#25211D" text-anchor="middle" letter-spacing="2">好乐</text>
+
+<circle cx="360" cy="392" r="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="398" font-size="15" fill="#25211D" text-anchor="middle" letter-spacing="2">忧患</text>
+
+<circle cx="160" cy="250" r="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="160" y="256" font-size="15" fill="#25211D" text-anchor="middle" letter-spacing="2">恐惧</text>
+
+<circle cx="360" cy="250" r="64" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="360" y="242" font-size="16" fill="#994433" text-anchor="middle" letter-spacing="2">心在</text>
+<text x="360" y="270" font-size="13" fill="#7C6D5C" text-anchor="middle">心不在</text>
+
+<text x="60" y="78" font-size="11.5" fill="#7C6D5C">怒向上炸</text>
+<text x="612" y="216" font-size="11.5" fill="#7C6D5C">欲向外攀</text>
+<text x="60" y="322" font-size="11.5" fill="#7C6D5C">畏向后缩</text>
+<text x="612" y="322" font-size="11.5" fill="#7C6D5C">虑向下沉</text>
+
+<text x="360" y="452" font-size="11.5" fill="#7C6D5C" text-anchor="middle">四者皆心之用，人所不能无；主位归心则心在，主位被夺则心不在</text>
+</svg>

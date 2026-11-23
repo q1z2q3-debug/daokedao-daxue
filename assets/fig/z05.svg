@@ -1,0 +1,52 @@
+<svg viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg">
+  <title>传五章释格物致知：即物、穷理、极处、豁然贯通</title>
+  <desc>朱子补传工夫路径四段横排：即物、穷理、极处、豁然贯通；段下横贯用力之久，末段分出外照众物、内明吾心两面效验；图角标注朱子补传、古本无此章。</desc>
+
+  <rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+
+  <text x="360" y="42" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="16" fill="#25211D">即物 → 穷理 → 极处 → 豁然贯通</text>
+  <text x="360" y="66" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">传五章 · 补传工夫路径</text>
+  <text x="690" y="22" text-anchor="end" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#7C6D5C">朱子补传 · 古本无此章</text>
+
+  <!-- 四段 -->
+  <rect x="30" y="140" width="140" height="116" rx="10" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+  <text x="100" y="176" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#994433">即物</text>
+  <text x="100" y="204" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#25211D">就着事上</text>
+  <text x="100" y="226" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#7C6D5C">不悬空思量</text>
+
+  <line x1="170" y1="198" x2="200" y2="198" stroke="#7C6D5C" stroke-width="1.5"/>
+  <path d="M 196 193 L 202 198 L 196 203" stroke="#7C6D5C" stroke-width="1.5" fill="none"/>
+
+  <rect x="200" y="140" width="140" height="116" rx="10" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+  <text x="270" y="176" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#994433">穷理</text>
+  <text x="270" y="204" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#25211D">已知之理益穷之</text>
+  <text x="270" y="226" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#7C6D5C">顺着已知往深推</text>
+
+  <line x1="340" y1="198" x2="370" y2="198" stroke="#7C6D5C" stroke-width="1.5"/>
+  <path d="M 366 193 L 372 198 L 366 203" stroke="#7C6D5C" stroke-width="1.5" fill="none"/>
+
+  <rect x="370" y="140" width="140" height="116" rx="10" fill="#FCFAF6" stroke="#DCD5C8" stroke-width="1.5"/>
+  <text x="440" y="176" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#994433">极处</text>
+  <text x="440" y="204" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#25211D">以求至乎其极</text>
+  <text x="440" y="226" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#7C6D5C">表里精粗无暗角</text>
+
+  <line x1="510" y1="198" x2="540" y2="198" stroke="#7C6D5C" stroke-width="1.5"/>
+  <path d="M 536 193 L 542 198 L 536 203" stroke="#7C6D5C" stroke-width="1.5" fill="none"/>
+
+  <rect x="540" y="140" width="140" height="116" rx="10" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+  <text x="610" y="176" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="15" fill="#994433">豁然贯通</text>
+  <text x="610" y="204" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#25211D">一旦通透</text>
+  <text x="610" y="226" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="11" fill="#7C6D5C">新旧之知接上</text>
+
+  <!-- 用力之久 -->
+  <line x1="60" y1="320" x2="660" y2="320" stroke="#7C6D5C" stroke-width="2"/>
+  <text x="360" y="308" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">用力之久 · 积累在前，贯通在后</text>
+
+  <!-- 两面效验 -->
+  <line x1="610" y1="256" x2="610" y2="356" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="360" y="384" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#25211D">外：众物之表里精粗无不到</text>
+  <text x="360" y="412" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#25211D">内：吾心之全体大用无不明</text>
+
+  <line x1="80" y1="442" x2="640" y2="442" stroke="#DCD5C8" stroke-width="1"/>
+  <text x="360" y="464" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="12" fill="#7C6D5C">穷理到极处，非看过多少条</text>
+</svg>

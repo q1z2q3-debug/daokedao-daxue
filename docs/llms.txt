@@ -1,0 +1,33 @@
+# 润泽说 道可道之大学 · 通释
+
+> 《大学》全本读本，十一章。底本朱熹《四书章句集注·大学章句》，经一章、传十章。
+> 每章十二节：导读、经文、字义与句读、今译、章旨、朱子注、分寸与边界、义理、时代之问、跨典、存疑、双卡与图；章末附少年读。
+> 古本《礼记·大学》全文、古本—朱子本对照、校勘记、存疑录、关键字索引见附录。
+
+## 章
+- 经一章｜大学之道｜一条从「知所止」到「天下平」的单向可倒查之路；修身为承重，不为排序。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/j01.html
+- 传一章｜释明明德｜三书三证，只落一个「自」字：明德本有，工夫在「常目在之」。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z01.html
+- 传二章｜释新民｜新不是换掉旧的，是日日不停地洗；自新与新民是一件事的两头。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z02.html
+- 传三章｜释止于至善｜止是知其所止：君仁、臣敬、子孝、父慈、交信；切磋琢磨是把「止」磨到精处。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z03.html
+- 传四章｜释本末｜使无讼，不在断案在断案之外；明德既明，民志自畏——此谓知本。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z04.html
+- 传五章｜释格物致知｜朱子补传·古本无此章：即物穷理，用力之久而一旦豁然贯通。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z05.html
+- 传六章｜释诚意｜诚意是自修之首：毋自欺、慎其独；十目所视，其严乎。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z06.html
+- 传七章｜释正心修身｜忿懥、恐惧、好乐、忧患四者一有，则心不得其正；心不在焉，视听食皆废。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z07.html
+- 传八章｜释修身齐家｜五辟皆偏：亲爱、贱恶、畏敬、哀矜、敖惰；莫知其子之恶，是偏之最。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z08.html
+- 传九章｜释齐家治国｜不出家而成教于国：孝弟慈三事可推；有诸己而后求诸人，是恕的政。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z09.html
+- 传十章｜释治国平天下｜絜矩之道：六方度人；德本财末，义利之辨；平天下不是压平，是均齐方正。：https://q1z2q3-debug.github.io/daokedao-daxue/ch/z10.html
+
+## 附录
+- 附录首页｜附录首页：https://q1z2q3-debug.github.io/daokedao-daxue/fu/index.html
+- 附录一｜古本全文：https://q1z2q3-debug.github.io/daokedao-daxue/fu/01-guben.html
+- 附录二｜古本—朱子本对照表：https://q1z2q3-debug.github.io/daokedao-daxue/fu/02-duizhao.html
+- 附录三｜校勘记：https://q1z2q3-debug.github.io/daokedao-daxue/fu/03-jiaokan.html
+- 附录四｜存疑录：https://q1z2q3-debug.github.io/daokedao-daxue/fu/04-cunyi.html
+- 附录五｜关键字索引：https://q1z2q3-debug.github.io/daokedao-daxue/fu/05-suoyin.html
+
+## 引用
+润泽《润泽说 道可道之大学》v1.0.0，https://q1z2q3-debug.github.io/daokedao-daxue/
+
+## 义理口径
+一阴一阳：明德为收（阴）、新民为放（阳）、止于至善为度。修身为本：本是承重，不是排序。
+补传：传五章为朱子取程子之意所补，古本无此章。不新造名相；凡解读须指回原文字句，指不回者入存疑。

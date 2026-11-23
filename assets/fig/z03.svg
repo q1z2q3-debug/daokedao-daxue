@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Songti SC',serif" style="background:#F7F4EE">
+<title>五止与切磋琢磨：在其位止其善，工序有绪益致其精</title>
+<desc>上排五止：君仁、臣敬、子孝、父慈、交信；下排切磋琢磨四工序，先裁成形质，后磨使滑泽，汇于盛德至善、民不能忘。</desc>
+<defs>
+<marker id="b" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 z" fill="#994433"/>
+</marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 五止＋切磋琢磨：位有定处，工有次序</text>
+
+<!-- 五止 -->
+<text x="40" y="54" font-size="11.5" fill="#994433">五止 · 在其位，止其善</text>
+
+<rect x="40" y="64" width="116" height="80" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="98" y="94" font-size="13" fill="#7C6D5C" text-anchor="middle">为人君</text>
+<text x="98" y="122" font-size="17" fill="#25211D" text-anchor="middle" letter-spacing="2">止于仁</text>
+
+<rect x="171" y="64" width="116" height="80" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="229" y="94" font-size="13" fill="#7C6D5C" text-anchor="middle">为人臣</text>
+<text x="229" y="122" font-size="17" fill="#25211D" text-anchor="middle" letter-spacing="2">止于敬</text>
+
+<rect x="302" y="64" width="116" height="80" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="94" font-size="13" fill="#7C6D5C" text-anchor="middle">为人子</text>
+<text x="360" y="122" font-size="17" fill="#25211D" text-anchor="middle" letter-spacing="2">止于孝</text>
+
+<rect x="433" y="64" width="116" height="80" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="491" y="94" font-size="13" fill="#7C6D5C" text-anchor="middle">为人父</text>
+<text x="491" y="122" font-size="17" fill="#25211D" text-anchor="middle" letter-spacing="2">止于慈</text>
+
+<rect x="564" y="64" width="116" height="80" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="622" y="94" font-size="13" fill="#7C6D5C" text-anchor="middle">与国人交</text>
+<text x="622" y="122" font-size="17" fill="#25211D" text-anchor="middle" letter-spacing="2">止于信</text>
+
+<line x1="40" y1="166" x2="680" y2="166" stroke="#DCD5C8"/>
+<text x="40" y="190" font-size="11.5" fill="#994433">切磋琢磨 · 治骨角玉石，既切复磋，既琢复磨</text>
+
+<!-- 四工序 -->
+<rect x="70" y="202" width="130" height="76" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="135" y="232" font-size="16" fill="#25211D" text-anchor="middle" letter-spacing="2">切</text>
+<text x="135" y="256" font-size="11.5" fill="#7C6D5C" text-anchor="middle">刀锯 · 裁成形质</text>
+
+<line x1="200" y1="240" x2="218" y2="240" stroke="#994433" stroke-width="1.2" marker-end="url(#b)"/>
+
+<rect x="220" y="202" width="130" height="76" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="285" y="232" font-size="16" fill="#25211D" text-anchor="middle" letter-spacing="2">磋</text>
+<text x="285" y="256" font-size="11.5" fill="#7C6D5C" text-anchor="middle">鑢钖 · 磨使滑泽</text>
+
+<rect x="370" y="202" width="130" height="76" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="435" y="232" font-size="16" fill="#25211D" text-anchor="middle" letter-spacing="2">琢</text>
+<text x="435" y="256" font-size="11.5" fill="#7C6D5C" text-anchor="middle">椎凿 · 裁成形质</text>
+
+<line x1="500" y1="240" x2="518" y2="240" stroke="#994433" stroke-width="1.2" marker-end="url(#b)"/>
+
+<rect x="520" y="202" width="130" height="76" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="585" y="232" font-size="16" fill="#25211D" text-anchor="middle" letter-spacing="2">磨</text>
+<text x="585" y="256" font-size="11.5" fill="#7C6D5C" text-anchor="middle">沙石 · 磨使滑泽</text>
+
+<text x="207" y="302" font-size="11.5" fill="#7C6D5C" text-anchor="middle">骨角：切而复磋 · 道学（讲习讨论）</text>
+<text x="487" y="302" font-size="11.5" fill="#7C6D5C" text-anchor="middle">玉石：琢而复磨 · 自修（省察克治）</text>
+
+<!-- 归宿 -->
+<rect x="230" y="336" width="260" height="70" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="360" y="366" font-size="16" fill="#994433" text-anchor="middle" letter-spacing="2">盛德至善</text>
+<text x="360" y="390" font-size="11.5" fill="#7C6D5C" text-anchor="middle">民之不能忘也</text>
+
+<line x1="360" y1="310" x2="360" y2="336" stroke="#994433" stroke-width="1.2" marker-end="url(#b)"/>
+
+<text x="360" y="442" font-size="11.5" fill="#7C6D5C" text-anchor="middle">止是定处不迁，不是停手；五止是角色伦理。</text>
+<text x="360" y="462" font-size="11.5" fill="#7C6D5C" text-anchor="middle">切磋琢磨，是减法精修。</text>
+</svg>
