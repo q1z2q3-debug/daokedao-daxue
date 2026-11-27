@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" style="background:#F7F4EE">
+<title>大学总图：三纲、八目、修身承重</title>
+<desc>三纲并列为顶，八条目自上而下成链，修身为承重轴；左标顺成，右标倒推与开眼、立心、本、末。</desc>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 大学总图：三纲在上，八目成链，修身承重</text>
+
+<!-- 三纲 -->
+<rect x="52" y="44" width="172" height="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="138" y="64" font-size="15" fill="#25211D" text-anchor="middle">明明德</text>
+<text x="138" y="80" font-size="11" fill="#7C6D5C" text-anchor="middle">体 · 阴 · 收</text>
+
+<rect x="274" y="44" width="172" height="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="64" font-size="15" fill="#25211D" text-anchor="middle">新民</text>
+<text x="360" y="80" font-size="11" fill="#7C6D5C" text-anchor="middle">用 · 阳 · 放</text>
+
+<rect x="496" y="44" width="172" height="44" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="582" y="64" font-size="15" fill="#25211D" text-anchor="middle">止于至善</text>
+<text x="582" y="80" font-size="11" fill="#7C6D5C" text-anchor="middle">度 · 定处不迁</text>
+
+<line x1="52" y1="100" x2="668" y2="100" stroke="#DCD5C8"/>
+<text x="360" y="118" font-size="11.5" fill="#994433" text-anchor="middle">三纲不是三件事：一体、一用、一度</text>
+
+<!-- 八目链 -->
+<line x1="186" y1="136" x2="186" y2="448" stroke="#DCD5C8"/>
+<text x="178" y="132" font-size="11" fill="#7C6D5C" text-anchor="end">顺成</text>
+<line x1="494" y1="136" x2="494" y2="448" stroke="#DCD5C8"/>
+<text x="502" y="132" font-size="11" fill="#7C6D5C">倒推</text>
+
+<rect x="210" y="140" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="158" font-size="14" fill="#25211D" text-anchor="middle">一 · 格物</text>
+<text x="502" y="158" font-size="11" fill="#7C6D5C">开眼</text>
+
+<text x="340" y="178" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="180" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="198" font-size="14" fill="#25211D" text-anchor="middle">二 · 致知</text>
+<text x="502" y="198" font-size="11" fill="#7C6D5C">开眼</text>
+
+<text x="340" y="218" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="220" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="238" font-size="14" fill="#25211D" text-anchor="middle">三 · 诚意</text>
+<text x="502" y="238" font-size="11" fill="#7C6D5C">立心</text>
+
+<text x="340" y="258" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="260" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="278" font-size="14" fill="#25211D" text-anchor="middle">四 · 正心</text>
+<text x="502" y="278" font-size="11" fill="#7C6D5C">立心</text>
+
+<text x="340" y="298" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="300" width="260" height="26" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="340" y="318" font-size="14" fill="#994433" text-anchor="middle">五 · 修身</text>
+<rect x="474" y="300" width="6" height="26" fill="#994433"/>
+<text x="502" y="318" font-size="12" fill="#994433" font-weight="bold">本 · 承重</text>
+
+<text x="340" y="338" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="340" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="358" font-size="14" fill="#25211D" text-anchor="middle">六 · 齐家</text>
+<text x="502" y="358" font-size="11" fill="#7C6D5C">末</text>
+
+<text x="340" y="378" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="380" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="398" font-size="14" fill="#25211D" text-anchor="middle">七 · 治国</text>
+<text x="502" y="398" font-size="11" fill="#7C6D5C">末</text>
+
+<text x="340" y="418" font-size="12" fill="#994433" text-anchor="middle">↓</text>
+<rect x="210" y="420" width="260" height="26" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="340" y="438" font-size="14" fill="#25211D" text-anchor="middle">八 · 平天下</text>
+<text x="502" y="438" font-size="11" fill="#7C6D5C">末</text>
+
+<text x="360" y="470" font-size="11.5" fill="#7C6D5C" text-anchor="middle">本承重，不排序；末非轻，是序。两组箭头一上一下，是同一条路。</text>
+</svg>

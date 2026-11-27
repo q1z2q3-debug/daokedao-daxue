@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" style="background:#F7F4EE">
+<title>五辟：亲爱、贱恶、畏敬、哀矜、敖惰，五向皆偏，起点在身</title>
+<desc>中心一圆为「身」，五个方向各出一条偏线，分别标亲爱、贱恶、畏敬、哀矜、敖惰；偏线尽头注「不加审」，示偏在情发而未审。</desc>
+<defs>
+<marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 z" fill="#994433"/>
+</marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 五辟：五向皆偏，起点在身</text>
+
+<line x1="360" y1="182" x2="360" y2="116" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="306" y1="216" x2="186" y2="188" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="414" y1="216" x2="534" y2="188" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="360" y1="298" x2="360" y2="364" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="402" y1="286" x2="512" y2="348" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+
+<circle cx="360" cy="240" r="58" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+<text x="360" y="248" font-size="26" fill="#994433" text-anchor="middle" letter-spacing="4">身</text>
+<text x="360" y="272" font-size="11.5" fill="#7C6D5C" text-anchor="middle">五偏皆从此出</text>
+
+<rect x="292" y="62" width="136" height="46" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="82" font-size="14" fill="#25211D" text-anchor="middle">亲爱而辟</text>
+<text x="360" y="100" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不加审 · 溺爱者不明</text>
+
+<rect x="36" y="150" width="150" height="46" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="111" y="170" font-size="14" fill="#25211D" text-anchor="middle">畏敬而辟</text>
+<text x="111" y="188" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不加审 · 不敢言其失</text>
+
+<rect x="534" y="150" width="150" height="46" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="609" y="170" font-size="14" fill="#25211D" text-anchor="middle">哀矜而辟</text>
+<text x="609" y="188" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不加审 · 不忍责其难</text>
+
+<rect x="292" y="372" width="136" height="46" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="360" y="392" font-size="14" fill="#25211D" text-anchor="middle">贱恶而辟</text>
+<text x="360" y="410" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不加审 · 恶之忘其美</text>
+
+<rect x="512" y="336" width="166" height="46" fill="#FCFAF6" stroke="#DCD5C8"/>
+<text x="595" y="356" font-size="14" fill="#25211D" text-anchor="middle">敖惰而辟</text>
+<text x="595" y="374" font-size="11.5" fill="#7C6D5C" text-anchor="middle">不加审 · 轻忽而不察</text>
+
+<text x="360" y="452" font-size="11.5" fill="#7C6D5C" text-anchor="middle">五者本有当然之则；向而不审，则陷于一偏而身不修</text>
+</svg>

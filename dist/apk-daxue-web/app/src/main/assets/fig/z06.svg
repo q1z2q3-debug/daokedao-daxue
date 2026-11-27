@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" font-family="'Noto Serif SC','Songti SC','Source Han Serif SC',serif" style="background:#F7F4EE">
+<title>独之三层：人所不知、己所独知、自欺发生处</title>
+<desc>三圈由外而内：外层人所不知，中层己所独知，内层自欺发生处；慎独之箭由外射入内圈，审计点在最里一圈。</desc>
+<defs>
+<marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<path d="M0,0 L8,4 L0,8 z" fill="#994433"/>
+</marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="480" fill="#F7F4EE"/>
+<text x="28" y="26" font-size="12.5" fill="#7C6D5C" letter-spacing="2">图一 · 独之三层：慎独是向内审，不是向外藏</text>
+
+<circle cx="360" cy="252" r="170" fill="none" stroke="#DCD5C8" stroke-width="1.5"/>
+<circle cx="360" cy="252" r="115" fill="none" stroke="#DCD5C8" stroke-width="1.5"/>
+<circle cx="360" cy="252" r="58" fill="#FCFAF6" stroke="#994433" stroke-width="1.5"/>
+
+<text x="360" y="112" font-size="13" fill="#7C6D5C" text-anchor="middle" letter-spacing="2">外层 · 人所不知</text>
+<text x="360" y="172" font-size="13" fill="#7C6D5C" text-anchor="middle" letter-spacing="2">中层 · 己所独知</text>
+
+<text x="360" y="246" font-size="26" fill="#994433" text-anchor="middle" letter-spacing="4">独</text>
+<text x="360" y="276" font-size="12" fill="#25211D" text-anchor="middle">自欺发生处</text>
+
+<line x1="86" y1="252" x2="296" y2="252" stroke="#994433" stroke-width="1.2" marker-end="url(#a)"/>
+<text x="180" y="234" font-size="11.5" fill="#7C6D5C" text-anchor="middle">慎独：由外向内审其几</text>
+
+<text x="48" y="360" font-size="11.5" fill="#7C6D5C">环境无人，只是外层</text>
+<text x="48" y="382" font-size="11.5" fill="#7C6D5C">心中清楚，方入中层</text>
+<text x="522" y="360" font-size="11.5" fill="#994433">审计点最里一圈</text>
+<text x="522" y="382" font-size="11.5" fill="#994433">旁人提醒，不能替审</text>
+
+<text x="360" y="452" font-size="11.5" fill="#7C6D5C" text-anchor="middle">独者，人所不知而己所独知之地；其实与不实，唯己独知之</text>
+</svg>

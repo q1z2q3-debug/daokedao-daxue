@@ -1,0 +1,26 @@
+{
+  "slug": "daxue-web",
+  "out": "daokedao-daxue",
+  "package": "com.runze.daokedaodaxue",
+  "app_name": "道可道之大学",
+  "version_code": 1001,
+  "version_name": "1.0.1",
+  "docs": "docs",
+  "entry": "index.html",
+  "copy_files": ["index.html", "book.html"],
+  "copy_dirs": ["ch", "fig", "fu"],
+  "site_prefixes": [
+    "https://q1z2q3-debug.github.io/daokedao-daxue/",
+    "https://q1z2q3-debug.github.io/daokedao-daxue",
+    "/daokedao-daxue/"
+  ],
+  "bare_index_fix": true,
+  "strip_blocks": [["<!-- apk-dl:start -->", "<!-- apk-dl:end -->"]],
+  "strip_hrefs": ["sitemap.xml", "dl/daxue-v1.0.1.apk"],
+  "strip_link_regex": ["fonts/css2"],
+  "font": {
+    "family": "Noto Serif SC",
+    "aliases": ["Source Han Serif SC", "Songti SC"],
+    "weights": {"400": ["/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc", 2], "700": ["/usr/share/fonts/opentype/noto/NotoSerifCJK-Bold.ttc", 2]}
+  }
+}
